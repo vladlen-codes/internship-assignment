@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# internship-project-main
-=======
 # Dr. Maya Reynolds, PsyD — Homepage Clone & Redesign
 
 Stage 2 assignment for the Grow My Therapy front-end internship: clone a Squarespace therapy homepage, then redesign it for a (fictional) Santa Monica psychologist using the same layout.
@@ -102,4 +99,3 @@ public/images/  clone/ (template assets), maya/ (profile photos + stock)
 scripts/        Playwright QA scripts
 docs/           PRD, technical design, implementation plan, image credits
 ```
->>>>>>> Stashed changes
