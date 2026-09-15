@@ -53,8 +53,6 @@ Every text pairing meets WCAG AA. Terracotta is only used for large script words
 
 **Section mapping.** Maya only works with adults, so the template's Adults / Couples / Children cards became her three services. Its four specialties became her four methods. Our Office sits right after her bio, so the page moves from person to place to method. It reuses the hero's overlapping-photo layout, mirrored, with her two office photos.
 
-**Images.** The stock photos are from Pexels, chosen for warm light, linen and sage tones, and adults only. All of them got the same light color grade so they sit alongside the office photos. Credits are in [`docs/IMAGE_CREDITS.md`](docs/IMAGE_CREDITS.md).
-
 ## SEO, accessibility, performance
 
 - Title and meta description targeting "anxiety & trauma therapist in Santa Monica". One H1, a clean heading outline, and descriptive alt text on every image.
