@@ -1,12 +1,12 @@
-# Dr. Maya Reynolds, PsyD — Homepage Clone & Redesign
+# Dr. Maya Reynolds, PsyD - Homepage Clone & Redesign
 
 Stage 2 assignment for the Grow My Therapy front-end internship: clone a Squarespace therapy homepage, then redesign it for a (fictional) Santa Monica psychologist using the same layout.
 
 | | |
 |---|---|
-| **Redesign** (Parts 2 & 3) | _add Vercel URL_ → `/` |
-| **Template clone** (Part 1) | _add Vercel URL_ → `/clone` |
-| **Video walkthrough** (Part 4) | _add Loom link_ |
+| **Redesign** | _add Vercel URL_ → `/` |
+| **Template clone** | _add Vercel URL_ → `/clone` |
+| **Video walkthrough** | _add Loom link_ |
 | **Original template** | https://www.conejovalleycounseling.com/home |
 
 ## What's here
