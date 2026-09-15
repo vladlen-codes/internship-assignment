@@ -5,7 +5,7 @@ Stage 2 assignment for the Grow My Therapy front-end internship: clone a Squares
 | | |
 |---|---|
 | **Redesign** | [_main_](https://internship-project-main-nine.vercel.app/) → `/` |
-| **Template clone** | _[ clone_](https://internship-project-main-nine.vercel.app/clone) → `/clone` |
+| **Template clone** | [ clone_](https://internship-project-main-nine.vercel.app/clone) → `/clone` |
 | **Video walkthrough** | _add Loom link_ |
 | **Original template** | https://www.conejovalleycounseling.com/home |
 
